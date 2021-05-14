@@ -1,0 +1,135 @@
+.head1 {
+    position: static;
+    z-index: 2;
+    width: 100%;
+    /* height: 67px; */
+}
+.navhead {
+    width: 100%;
+    border-bottom: 1px solid rgb(236, 239, 241);
+    top: 0;
+    background: rgb(255, 255, 255);
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+}
+
+.div1 {
+    width: 300px;
+}
+
+
+.div2{
+    width: auto;
+    flex: auto;
+    /* background-color: red; */
+}
+
+.buttons-div{
+    display: flex;
+    flex-direction: row;
+    padding-right: 30px;
+    /* background-color: red; */
+    width: 300px;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.buttons-div span{
+    margin-right: 10px;
+}
+
+.navhead1 {
+    position: relative;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding:0;
+    margin: 0;
+    margin-top: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.nav-links li {
+    list-style: none;
+    padding-left: 6px;
+    cursor: pointer;
+}
+
+.Coinstartborder{
+    max-width: 1180px;
+    margin: 0px auto;
+    display: flex;
+    align-items: stretch;
+    padding: 0px 20px;
+    box-sizing: content-box;
+}
+.coinbaseborder{
+    display: flex;
+    align-items: center;
+    padding-bottom: 3px;
+    flex: 2 1 0%;
+}
+.cb{
+
+    display: inline-flex;
+}
+.cbimage{
+
+    height : 20px;
+    aspect-ratio: auto 112/20;
+    width: 112px;
+    margin-top: 10px;
+}
+.Navtags{
+    display: flex;
+    flex: 6 1 0%;
+    justify-content: center
+
+}
+.signintab{
+    display: flex;
+    padding: 15px 0px;
+    flex: 2 1 0%;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.prices{
+    display: flex;
+    flex: 6 1 0%;
+    justify-content: center;
+}
+.coinbaselogo{
+
+    position: relative;
+    max-height: 20px;
+}
+.Prices{
+
+    line-height: 15px;
+    display: inline-flex;
+}
+.prices1{
+    margin: 0px 18px;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+.Boldtext{
+   display: flex;
+    margin-top: 100PX;
+    width: 100px;
+}
+.gsButton{
+
+    background-color :	#0000ff;
+    color: white;
+    border-radius: 6px;
+    
+}

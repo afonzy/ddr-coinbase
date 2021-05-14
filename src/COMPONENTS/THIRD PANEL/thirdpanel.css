@@ -1,0 +1,34 @@
+
+.tdPanel{
+
+    margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-top: 50px;
+  padding: 90px;
+  
+  
+}
+.RightSide{
+    width: 500px;
+    background-color: white;
+    height: 70px;
+    float: right;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+    transition-duration: 0.4s;
+}
+.Skale{
+
+    
+}.Rightside1{
+
+    width: 500px;
+    background-color: white;
+    height: 70px;
+    float: right;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+    transition-duration: 0.4s;
+}

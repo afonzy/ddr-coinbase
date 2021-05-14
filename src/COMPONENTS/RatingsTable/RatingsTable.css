@@ -1,0 +1,61 @@
+.ratings-section {
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ratings-table {
+    width: 80%;
+    border-bottom: 1px solid rgb(236, 239, 241);
+    border-top:1px solid rgb(236, 239, 241) ;
+    text-align: center;
+}
+
+.ratings-table th,td{
+    
+    border-collapse: collapse;
+
+    
+    
+}
+
+.ratings-table tr:hover{
+    background-color: #f5f5f5;
+}
+
+.btcTable{
+    padding: 100px ;
+    width: 100%;
+    display: table-row;
+    align-items: center;;
+    text-align: center;
+
+    
+    
+}
+.btcChange{
+    color: red;
+    
+}
+.btcButton{
+
+    background-color:#02aa6d;
+    width: 70px;
+    height: 50px;
+    border-radius: 5px;
+    color: white;
+    border: 1px;
+
+}
+.btcButton :hover{
+  background-color: grey;
+}
+.btcLogo{
+
+    width:30px;
+    height: 30px;
+    margin-right:  10px;
+    
+}
