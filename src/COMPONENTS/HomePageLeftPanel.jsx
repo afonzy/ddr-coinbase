@@ -6,7 +6,7 @@ const HomePageLeftPanel = () => {
         <div className='left-panel'>
             <div className="btc-link">
                 <BTCSvg />
-                <a>Jump start your portfolio</a>
+                <a className='jumpStart'>Jump start your portfolio</a>
             </div>
             <div>
                 <h1>Jump start</h1>
