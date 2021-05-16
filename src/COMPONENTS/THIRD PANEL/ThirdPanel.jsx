@@ -81,7 +81,7 @@ Stellar Lumens</h1>
 <h2 className='xlm'>XLM</h2>
 
 
-<p className='viewmore'>view more </p>
+<p className='viewmore'>View more </p>
                 </div>
                 
             </div>
