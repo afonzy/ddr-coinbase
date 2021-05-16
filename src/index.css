@@ -97,4 +97,8 @@ code {
 .jumpStart{
   color: #0000ff;
   cursor:  pointer;
+  
+}
+.jumpStart:hover{
+  text-decoration: underline;
 }

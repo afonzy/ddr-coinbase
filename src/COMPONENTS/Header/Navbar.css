@@ -105,6 +105,7 @@
 }
 .spannn{
     font-weight: bold;
+    cursor: pointer;
 }
 .prices{
     display: flex;
