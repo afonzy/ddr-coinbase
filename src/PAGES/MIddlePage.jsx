@@ -1,5 +1,6 @@
 import React from "react";
 import "./MiddlePage.css";
+import phone from ".././COMPONENTS/image/coinbasephone.png";
 
 const MiddlePage = () => {
   return (
@@ -170,8 +171,10 @@ const MiddlePage = () => {
                             href="https://play.google.com/store/apps/details?id=com.coinbase.android"
                           >
                             Android
+                          
                           </a>
                         </a>
+                        "."
                       </p>
                     </div>
                     <div></div>
@@ -180,6 +183,9 @@ const MiddlePage = () => {
               </div>
             </div>
           </div>
+        </div>
+        <div class="phone pic">
+          <img src="https://assets.coinbase.com/assets/coinbase-app.51b8f3dbe406092d16845f3e74870061.jpg" alt="tecno"/>
         </div>
       </div>
     </section>
