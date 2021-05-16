@@ -5,7 +5,7 @@ const HomePageLeftPanel = () => {
     return (
         <div className='left-panel'>
             <div className="btc-link">
-                <BTCSvg />
+                <BTCSvg className='bitlogo' />
                 <a className='jumpStart'>Jump start your portfolio</a>
             </div>
             <div>
