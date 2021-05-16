@@ -9,7 +9,7 @@ const RatingsTable = () => {
     return (
         <section className="ratings-section">
             <table className="ratings-table">
-                <thead>
+                <thead className='tableHead'>
                     <th>#</th>
                     <th>Name</th>
                     <th>Price</th>
