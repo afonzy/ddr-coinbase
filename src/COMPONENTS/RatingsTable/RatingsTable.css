@@ -10,7 +10,7 @@
     width: 80%;
     border-bottom: 1px solid rgb(236, 239, 241);
     border-top:1px solid rgb(236, 239, 241) ;
-    text-align: center;
+    text-align: left;
 }
 
 .ratings-table th,td{
@@ -26,11 +26,16 @@
 }
 
 .btcTable{
-    padding: 100px ;
-    width: 100%;
+    padding: 150px ;
+    width: 150px;
+    height: 70px;
     display: table-row;
     align-items: center;;
-    text-align: center;
+    text-align: left;
+    margin-top: 3px;
+    align-content: center;
+    padding-right: 30px;
+    border:   grey ;
 
     
     
