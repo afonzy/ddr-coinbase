@@ -93,12 +93,21 @@ code {
   border-radius: 6px;
   color: white;
   border: 10px;
+  font-weight: bold;
 }
 .jumpStart{
   color: #0000ff;
   cursor:  pointer;
+  padding-right: 40px;
+  font-weight: bold;
+  
+
   
 }
 .jumpStart:hover{
   text-decoration: underline;
+}
+.bitlogo{
+
+  display: flex;
 }
