@@ -1,9 +1,14 @@
+import { Fragment } from 'react';
 import './App.css';
 import Homepage from './PAGES/homepage';
+import MiddlePage from './PAGES/MIddlePage';
 
 function App() {
   return (
-    <Homepage/>
+    <Fragment>
+      <Homepage/>
+      <MiddlePage />
+    </Fragment>
   );
 }
 

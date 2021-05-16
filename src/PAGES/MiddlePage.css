@@ -1,0 +1,167 @@
+.folio{
+    margin: 0px 0px 10px;
+    font-size: 40px;
+    font-weight: 500;
+    color: rgb(15, 50, 86);
+    text-align: center;
+}
+
+.bitre{
+    color: rgb(144, 161, 184);
+    text-align: center;
+    font-size: smaller;
+}
+
+.manage_container{
+    
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+
+.mid_container{
+    display: flex;
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0px auto;
+    padding: 24px
+}
+
+.mid_wrap{
+    display: flex;
+    flex: 1 1 auto;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.yetti{
+    margin-top: 60px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.anhin{
+    margin-top: 0px;
+    margin-right: 18px;
+}
+.terry{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.ben{
+    margin-top: -8px;
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    margin-right: 28px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:rgb(218 225 233 / 56%) 0px 8px 16px;
+}
+.weed{
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.pitch{
+    margin: 0px;
+    line-height: 1.6;
+    color: rgb(131, 143, 160);
+}
+.pent{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.nelson{
+    margin-top: -8px;
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    margin-right: 28px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(218 225 233 / 56%) 0px 8px 16px;
+
+} 
+.liman{
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.donzy{
+    margin: 0px;
+    line-height: 1.6;
+    color: rgb(131, 143, 160);
+}
+.alvin{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.faks{
+    margin-top: -8px;
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    margin-right: 28px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(218 225 233 / 56%) 0px 8px 16px;
+}
+.lizzy{
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.fry{
+    margin: 0px;
+    line-height: 1.6;
+    color: rgb(131, 143, 160);
+}
+.rat{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.beans{
+    margin-top: -8px;
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    margin-right: 28px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgb(218 225 233 / 56%) 0px 8px 16px;
+}
+.yenel{
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.die{
+    margin: 0px;
+    line-height: 1.6;
+    color: rgb(131, 143, 160);
+}
+
+
+
