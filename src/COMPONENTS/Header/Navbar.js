@@ -37,12 +37,12 @@ const Navbar = () => {
                         <li>Learn</li>
                         <li>Individual</li>
                         <li>Business</li>
-                        <li>Business</li>
-                        <li>Business</li>
+                        <li>Developers</li>
+                        <li>Company</li>
                     </ul>
                 </div>
                 <div className="buttons-div">
-                    <span>Sign in</span>
+                    <span className='spannn'>Sign in</span>
                     <button className='gsButton'>Get Started</button>
                 </div>
 

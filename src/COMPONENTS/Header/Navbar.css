@@ -53,6 +53,7 @@
     margin-top: 10px;
     width: 100%;
     justify-content: space-between;
+    font-weight:bold;
 }
 
 .nav-links li {
@@ -60,6 +61,7 @@
     padding-left: 6px;
     cursor: pointer;
 }
+
 
 .Coinstartborder{
     max-width: 1180px;
@@ -98,7 +100,11 @@
     flex: 2 1 0%;
     justify-content: flex-end;
     align-items: center;
+    ;
 
+}
+.spannn{
+    font-weight: bold;
 }
 .prices{
     display: flex;
