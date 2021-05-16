@@ -4,18 +4,24 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
+
 }
 
 .ratings-table {
-    width: 80%;
+    width: 1200px;
     border-bottom: 1px solid rgb(236, 239, 241);
     border-top:1px solid rgb(236, 239, 241) ;
+    border-left:1px solid rgb(236, 239, 241) ;
+    border-right:1px solid rgb(236, 239, 241) ;
     text-align: left;
-}
+ }
 
 .ratings-table th,td{
     
     border-collapse: collapse;
+    padding: 10px;
+    border-bottom: 1px solid rgb(236, 239, 241);
 
     
     
@@ -23,6 +29,7 @@
 
 .ratings-table tr:hover{
     background-color: #f5f5f5;
+
 }
 
 .btcTable{
@@ -36,7 +43,7 @@
     align-content: center;
     padding-right: 30px;
     border:   grey ;
-
+    
     
     
 }
