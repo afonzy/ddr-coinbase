@@ -6,7 +6,6 @@
 }
 .navhead {
     width: 100%;
-    border-bottom: 1px solid rgb(236, 239, 241);
     top: 0;
     background: rgb(255, 255, 255);
     padding: 12px;
@@ -131,5 +130,6 @@
     background-color :	#0000ff;
     color: white;
     border-radius: 6px;
+    border: 1px;
     
 }
